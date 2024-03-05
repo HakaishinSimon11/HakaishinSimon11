@@ -1,8 +1,4 @@
 ### Hi there!!
-<!--
-**HakaishinSimon11/HakaishinSimon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on figuring out this website.
 - 🌱 I’m currently learning HTML and CSS
@@ -11,5 +7,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about you?
 - 📫 How to reach me: Don't honestly, it's for your own good.
 - 😄 Pronouns: I don't have any.
+<!--
+**HakaishinSimon11/HakaishinSimon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 - ⚡ Fun fact: ...
 -->
